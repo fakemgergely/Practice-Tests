@@ -2,7 +2,6 @@
  * Produce "flash-cards" to memorize materials for CIS 2014/2015 Academic Years
  * 
  * @version 0.1
- * 
  * @author Michael Gergely
  */
 
