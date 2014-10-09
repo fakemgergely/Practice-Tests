@@ -4,4 +4,4 @@ Features to add soon:
     
     course: if < 0 || if > 5 - redo
     
-    chapter: if < 0 || if > that chapters cap
+    chapter: if < 0 || if > that courses chapter cap - redo
