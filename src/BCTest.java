@@ -1,7 +1,7 @@
 /**
  * Business Communications Course
  * 
- * @author Michael Gergely
+ * @author fake name
  */
 
 //Imports
